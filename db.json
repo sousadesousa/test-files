@@ -1,17 +1,11 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Batatas",
-        "description": "As batatas mais belas de Portugal"
-      },
-      {
-        "id": 2,
-        "name": "Cebolas",
-        "description": "Cebolas frescas"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
